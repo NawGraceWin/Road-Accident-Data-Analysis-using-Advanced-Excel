@@ -10,9 +10,9 @@ Load the road accident dataset into Excel.
 
 #### Data Cleaning:
 
-Remove duplicates.
-Handle missing values.
-Standardize data formats.
+- Remove duplicates.
+- Handle missing values.
+- Standardize data formats.
 
 #### Data Transformation:
 Create new columns (e.g., Month,Year).
@@ -24,8 +24,8 @@ Use Pivot Tables to summarize data by various dimensions such as accident type, 
 Create bar charts, line charts,donut charts and heat maps to visualize accident frequency, trends over time, and hotspots.
 
 #### Dashboard Creation:
-Combine charts, Pivot Tables, and key metrics into an interactive dashboard.
-Add slicers for dynamic filtering of data.
+- Combine charts, Pivot Tables, and key metrics into an interactive dashboard.
+- Add slicers for dynamic filtering of data.
 
 ![Excel](https://github.com/NawGraceWin/Road-Accident-Data-Analysis-using-Advanced-Excel/assets/173721780/e770d92c-7f68-4078-9e02-033f1ef788e1)
 
