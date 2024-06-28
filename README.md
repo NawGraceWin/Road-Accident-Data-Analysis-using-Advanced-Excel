@@ -1,4 +1,4 @@
-### Road Accident Data Analysis using Advanced Exce
+### Road Accident Data Analysis using Advanced Excel
 #### Objective:
 To analyze road accident data to identify patterns and insights that can help improve road safety.
 
@@ -26,6 +26,10 @@ Create bar charts, line charts,donut charts and heat maps to visualize accident 
 #### Dashboard Creation:
 Combine charts, Pivot Tables, and key metrics into an interactive dashboard.
 Add slicers for dynamic filtering of data.
+
+![Excel](https://github.com/NawGraceWin/Road-Accident-Data-Analysis-using-Advanced-Excel/assets/173721780/e770d92c-7f68-4078-9e02-033f1ef788e1)
+
+
 
 #### Outcome:
 The analysis will provide insights into the most common types of accidents, their frequency by day and time, and how factors like weather affect accident rates. The dashboard will offer a comprehensive and interactive way to explore the data and identify trends, ultimately aiding in the development of strategies to reduce road accidents.
